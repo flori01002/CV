@@ -1,0 +1,62 @@
+.top{
+    border: 3px solid black;
+    background-color: #808080;
+    width: 700px;
+    margin-left: 300px;
+}
+
+.top .allin img{
+    float: left;
+    margin-left: 20px;
+    width: 100px;
+}
+
+.top .allin h1{
+    text-align: center;
+    margin-right: 150px;
+    font-size: 40px;
+    font-family: "Protest Guerrilla", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.top .allin #email{
+    text-align: center;
+    margin-right: 200px;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.top .allin #nr{
+    margin-left: 600px;
+    font-weight: 600;
+}
+
+
+.down {
+    border: 3px solid black;
+    border-top: 3px solid orange;
+    width: 700px;
+    height: 900px;
+    margin-left: 300px;
+}
+
+.allind{
+    border: 1px groove black;
+}
+
+.down h2{
+    margin-left: 20px;
+    color: #FD9E00;
+    font-size: 30px;
+    font-family: "Protest Revolution", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.down #pinfo{
+    font-size: 21px;
+    margin-left: 200px;
+}
